@@ -43,8 +43,9 @@ Amazon Q Developer served as an AI coding assistant throughout the development o
 - Recommended scalability improvements
 - Suggested ways to enhance user engagement
 
-Using Amazon Q Developer significantly accelerated the development process while ensuring high-quality code and modern development practices were followed throughout the project.
+- Using Amazon Q Developer significantly accelerated the development process while ensuring high-quality code and modern development practices were followed throughout the project.
 
+## AWS Amplify and S3
 - I have also used AWS Amplify Hosting to deploy the AWSome Quiz Game and Amazon S3 for storing game assets
   
 Thank you AWS!!!
