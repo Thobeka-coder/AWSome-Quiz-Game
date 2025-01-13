@@ -15,6 +15,7 @@ Amazon Q Developer served as an AI coding assistant throughout the development o
 - Centralized DOM element references
 - Enhanced state management
 - Optimized the animation loop for better performance
+- Generated some questions for the AWSome quiz game.
 - Suggested modern JavaScript features and best practices
 
 ## Feature Implementation
